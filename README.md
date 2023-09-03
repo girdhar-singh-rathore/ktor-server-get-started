@@ -11,3 +11,7 @@ To run a sample, execute the following command in a repository's root directory:
 gradle run
 ```
 
+request resource
+```sh
+http://0.0.0.0:8080/
+```
